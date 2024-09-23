@@ -2,6 +2,9 @@
 🌍 Based in Thiruvallur
 💻 Software Developer | Tech Enthusiast | Open Source Contributor
 
+🌟 About Me
+I am passionate about building scalable web applications and contributing to open-source projects. I enjoy learning new technologies and sharing knowledge with the developer community.
+
 ### 🛠️ Technologies & Skills
 
 - **Languages:**
