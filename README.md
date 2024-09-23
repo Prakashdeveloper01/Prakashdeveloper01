@@ -15,16 +15,16 @@ I am passionate about building scalable web applications and contributing to ope
   
    ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  ![Spring Boot](https://img.icons8.com/color/48/000000/spring.png)  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 
-  📫 Get in Touch
-- Email: sprakash0109@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/prakash-s0109/)
-
-
 - **Databases:**
   
   ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
   
 - **Tools:**
   
-  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) ![GitHub](https://img.icons8.com/color/48/000000/github-2.png)  
+  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) ![GitHub](https://img.icons8.com/color/48/000000/github-2.png)
+
+    📫 Get in Touch
+- Email: sprakash0109@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/prakash-s0109/)
+
 
