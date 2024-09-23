@@ -22,13 +22,16 @@
   ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
 
 - **Frameworks:**
+  
   ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png) Hibernate  
   ![Spring](https://img.icons8.com/color/48/000000/spring.png) Spring Boot  
 
 - **Databases:**
+  
   ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  
 
 - **Tools:**
+  
   ![Git](https://img.icons8.com/color/48/000000/git.png) Git  
   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse  
   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code  
