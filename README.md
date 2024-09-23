@@ -15,6 +15,7 @@
 ### 🛠️ Technologies & Skills
 
 - **Languages:**
+  
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)    ![Python](https://img.icons8.com/color/48/000000/python.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)    ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 
 - **Frameworks:**
@@ -23,7 +24,8 @@
 
 - **Databases:**
   
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) 
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+  
 - **Tools:**
   
   ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)   
