@@ -15,11 +15,7 @@
 ### 🛠️ Technologies & Skills
 
 - **Languages:**
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript  
-  ![Python](https://img.icons8.com/color/48/000000/python.png) Python  
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java  
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5  
-  ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)    ![Python](https://img.icons8.com/color/48/000000/python.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)    ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
 
 - **Frameworks:**
   
