@@ -29,4 +29,4 @@
   
 - **Tools:**
   
-  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)   ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png)
+  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)   
