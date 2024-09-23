@@ -20,7 +20,8 @@
 
 - **Frameworks:**
   
-  ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  ![Spring](https://img.icons8.com/color/48/000000/spring.png)  
+  ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  ![Spring](https://img.icons8.com/color/48/000000/spring.png)  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS  
+
 
 - **Databases:**
   
