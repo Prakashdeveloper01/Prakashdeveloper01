@@ -35,4 +35,5 @@ I love exploring new technologies and staying updated with industry trends.
 - Email: sprakash0109@gmail.com
 - LinkedIn: [prakash-s0109](https://www.linkedin.com/in/prakash-s0109/)
 
+![3D Model](https://your-3d-image-link)
 
