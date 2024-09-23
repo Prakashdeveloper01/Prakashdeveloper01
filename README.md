@@ -3,10 +3,10 @@
 💻 Software Developer | Tech Enthusiast | Open Source Contributor
 
 🛠️ Technologies & Skills
-Languages: JavaScript, Python, Java, Html5, CSS
-Frameworks: Hibernate, Spring Boot
-Databases:  MySQL
-Tools: Git, Eclipse, VS Code
+- Languages: JavaScript, Python, Java, Html5, CSS
+- Frameworks: Hibernate, Spring Boot
+- Databases:  MySQL
+- Tools: Git, Eclipse, VS Code
 
 📫 Get in Touch
 Email: sprakash0109@gmail.com
