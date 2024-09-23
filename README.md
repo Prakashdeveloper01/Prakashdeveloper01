@@ -1,8 +1,8 @@
-👋 Hi there! I'm __Prakash S__
-🌍 Based in Thiruvallur
-💻 Software Developer | Tech Enthusiast | Open Source Contributor
-- 🌍 Based in Thiruvallur
-- 💻 Software Developer | Tech Enthusiast | Open Source Contributor
+### 👋 Hi there! I'm **Prakash S**
+
+🌍 Based in **Thiruvallur**  
+💻 **Software Developer | Tech Enthusiast | Open Source Contributor**
+
 
 
 🌟 About Me
