@@ -3,9 +3,10 @@
 🌍 Based in **Thiruvallur**  
 💻 **Software Developer | Tech Enthusiast | Open Source Contributor**
 
-- ⚡️**"*I don’t trust people who don’t write SQL queries in uppercase.*"** ⚡️
-- ⚡️**"*With Java, you don't just build software; you create a universe of possibilities.*"**  ⚡️
-- ⚡️**"*Java is the language that turned coffee into code.*"** ⚡️
+- ⚡️ ***"I don’t trust people who don’t write SQL queries in uppercase."*** ⚡️
+- ⚡️ ***"With Java, you don't just build software; you create a universe of possibilities."*** ⚡️
+- ⚡️ ***"Java is the language that turned coffee into code."*** ⚡️
+
 
 
 🌟 **About Me**
