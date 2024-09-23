@@ -25,6 +25,6 @@ I am passionate about building scalable web applications and contributing to ope
 
     📫 Get in Touch
 - Email: sprakash0109@gmail.com
-- LinkedIn: prakash-s0109
+- LinkedIn: [prakash-s0109](https://www.linkedin.com/in/prakash-s0109/)
 
 
