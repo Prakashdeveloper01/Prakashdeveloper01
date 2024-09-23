@@ -5,9 +5,8 @@
 - ⚡ *I don’t trust people who don’t write SQL queries in uppercase* ⚡️
 
 
-*
-🌟 About Me
-I am a passionate software developer focused on building scalable web applications. I thrive on solving complex problems and love contributing to open-source projects. Always eager to learn and explore new technologies, I enjoy sharing insights with the developer community.
+🌟 **About Me**
+- I am a passionate software developer focused on building scalable web applications. I thrive on solving complex problems and love contributing to open-source projects. Always eager to learn and explore new technologies, I enjoy sharing insights with the developer community.
 
 ### 🛠️ Technologies & Skills
 
