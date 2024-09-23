@@ -2,7 +2,7 @@
 
 🌍 Based in **Thiruvallur**  
 💻 **Software Developer | Tech Enthusiast | Open Source Contributor**
-⚡️ I don’t trust people who don’t write SQL queries in uppercase ⚡️
+- ⚡ *I don’t trust people who don’t write SQL queries in uppercase* ⚡️
 
 
 🌟 About Me
