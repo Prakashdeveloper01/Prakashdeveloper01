@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm **Prakash S**
+### 👋 Hi there! I'm ***Prakash S***
 
 🌍 Based in **Thiruvallur**  
 💻 **Software Developer | Tech Enthusiast | Open Source Contributor**
