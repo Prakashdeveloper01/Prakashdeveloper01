@@ -6,7 +6,7 @@
 
 
 🌟 About Me
-I am passionate about building scalable web applications and contributing to open-source projects. I enjoy learning new technologies and sharing knowledge with the developer community.
+I am a passionate software developer focused on building scalable web applications. I thrive on solving complex problems and love contributing to open-source projects. Always eager to learn and explore new technologies, I enjoy sharing insights with the developer community.
 
 ### 🛠️ Technologies & Skills
 
