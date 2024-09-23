@@ -19,16 +19,12 @@
 
 - **Frameworks:**
   
-  ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png) Hibernate  
-  ![Spring](https://img.icons8.com/color/48/000000/spring.png) Spring Boot  
+  ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  ![Spring](https://img.icons8.com/color/48/000000/spring.png)  
 
 - **Databases:**
   
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  
-
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) 
 - **Tools:**
   
-  ![Git](https://img.icons8.com/color/48/000000/git.png) Git  
-  ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse  
-  ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code  
+  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)   
 
