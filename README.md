@@ -18,8 +18,7 @@
 
 - **Frameworks:**
   
-   ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  ![Spring Boot](https://img.icons8.com/color/48/000000/spring.png)  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![FastAPI Logo](https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo.svg)
-
+   ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  ![Spring Boot](https://img.icons8.com/color/48/000000/spring.png)  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) 
 
 - **Databases:**
   
