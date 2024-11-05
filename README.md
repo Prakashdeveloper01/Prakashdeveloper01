@@ -26,7 +26,8 @@
   
 - **Tools:**
   
-  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) ![GitHub](https://img.icons8.com/color/48/000000/github-2.png) 
+  ![Git](https://img.icons8.com/color/48/000000/git.png)   ![Eclipse](https://img.icons8.com/color/48/000000/eclipse.png)   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) ![GitHub](https://img.icons8.com/color/48/000000/github-2.png) ![Swagger UI Icon](https://path-to-your-image/logo.svg)
+
 
 🌈 Fun Facts
 - 🎵 I love exploring new technologies and staying updated with industry trends.
