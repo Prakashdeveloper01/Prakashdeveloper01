@@ -4,8 +4,8 @@
 💻 **Software Developer | Tech Enthusiast | Open Source Contributor**
 
 - ⚡️ ***"I don’t trust people who don’t write SQL queries in uppercase."*** ⚡️
-- ⚡️ ***"With Java, you don't just build software; you create a universe of possibilities."*** ⚡️
-- ⚡️ ***"Java is the language that turned coffee into code."*** ⚡️
+- ⚡️ ***"With Python, you don't just build software; you create a universe of possibilities."*** ⚡️
+- ⚡️ ***"Python is the language that turned coffee into code."*** ⚡️
 
 🌟 **About Me**
 - I am a passionate software developer focused on building scalable web applications. I thrive on solving complex problems and love contributing to open-source projects. Always eager to learn and explore new technologies, I enjoy sharing insights with the developer community.
